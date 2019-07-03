@@ -1,2 +1,2 @@
 # ML-Projects
-My personal machine learning projects
+My personal machine learning projects.
